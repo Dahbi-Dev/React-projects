@@ -1,0 +1,30 @@
+/* 
+body{
+    font-family: sans-serif;
+}
+.container{
+    padding-top: 2
+    00px;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(8, 0, 17);
+    border-style: dashed ;
+    
+    
+}
+h1{
+    color: rgb(19, 107, 184);
+}
+.child {
+    background-color: rgba(0, 0, 0, 0.863) ;
+    color: rgba(255, 255, 255, 0.6);
+    justify-content: center;
+
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul{
+    list-style: none;
+} */
